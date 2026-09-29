@@ -1,0 +1,932 @@
+[
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/algorithm-thinking.md",
+    "rel": "appendix/1-computer-fundamentals/algorithm-thinking.md",
+    "bytes": 14062
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/compilers.md",
+    "rel": "appendix/1-computer-fundamentals/compilers.md",
+    "bytes": 14018
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/computer-networks.md",
+    "rel": "appendix/1-computer-fundamentals/computer-networks.md",
+    "bytes": 28315
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/computer-organization.md",
+    "rel": "appendix/1-computer-fundamentals/computer-organization.md",
+    "bytes": 24179
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/data-encoding-storage.md",
+    "rel": "appendix/1-computer-fundamentals/data-encoding-storage.md",
+    "bytes": 16342
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/data-structures.md",
+    "rel": "appendix/1-computer-fundamentals/data-structures.md",
+    "bytes": 16496
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/operating-systems.md",
+    "rel": "appendix/1-computer-fundamentals/operating-systems.md",
+    "bytes": 6749
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/power-on-to-web.md",
+    "rel": "appendix/1-computer-fundamentals/power-on-to-web.md",
+    "bytes": 22657
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/programming-languages.md",
+    "rel": "appendix/1-computer-fundamentals/programming-languages.md",
+    "bytes": 6656
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/transistor-to-cpu.md",
+    "rel": "appendix/1-computer-fundamentals/transistor-to-cpu.md",
+    "bytes": 20837
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/type-systems.md",
+    "rel": "appendix/1-computer-fundamentals/type-systems.md",
+    "bytes": 11812
+  },
+  {
+    "path": "docs/en/appendix/1-computer-fundamentals/vibe-coding-fullstack.md",
+    "rel": "appendix/1-computer-fundamentals/vibe-coding-fullstack.md",
+    "bytes": 16915
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/command-line-shell.md",
+    "rel": "appendix/2-development-tools/command-line-shell.md",
+    "bytes": 16463
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/debugging-art.md",
+    "rel": "appendix/2-development-tools/debugging-art.md",
+    "bytes": 18459
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/debugging-art/index.md",
+    "rel": "appendix/2-development-tools/debugging-art/index.md",
+    "bytes": 7173
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/environment-path.md",
+    "rel": "appendix/2-development-tools/environment-path.md",
+    "bytes": 6329
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/git-version-control.md",
+    "rel": "appendix/2-development-tools/git-version-control.md",
+    "bytes": 20723
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/ide-basics.md",
+    "rel": "appendix/2-development-tools/ide-basics.md",
+    "bytes": 17725
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/package-managers.md",
+    "rel": "appendix/2-development-tools/package-managers.md",
+    "bytes": 17260
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/ports-localhost.md",
+    "rel": "appendix/2-development-tools/ports-localhost.md",
+    "bytes": 11313
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/regex.md",
+    "rel": "appendix/2-development-tools/regex.md",
+    "bytes": 5254
+  },
+  {
+    "path": "docs/en/appendix/2-development-tools/ssh-authentication.md",
+    "rel": "appendix/2-development-tools/ssh-authentication.md",
+    "bytes": 4632
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/a11n-i18n.md",
+    "rel": "appendix/3-browser-and-frontend/a11n-i18n.md",
+    "bytes": 8302
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/browser-as-os-rendering.md",
+    "rel": "appendix/3-browser-and-frontend/browser-as-os-rendering.md",
+    "bytes": 42719
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/frontend-engineering.md",
+    "rel": "appendix/3-browser-and-frontend/frontend-engineering.md",
+    "bytes": 43686
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/frontend-framework-nature.md",
+    "rel": "appendix/3-browser-and-frontend/frontend-framework-nature.md",
+    "bytes": 28060
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/frontend-frameworks.md",
+    "rel": "appendix/3-browser-and-frontend/frontend-frameworks.md",
+    "bytes": 24554
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/frontend-project-architecture.md",
+    "rel": "appendix/3-browser-and-frontend/frontend-project-architecture.md",
+    "bytes": 17603
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/graphics-animation.md",
+    "rel": "appendix/3-browser-and-frontend/graphics-animation.md",
+    "bytes": 10773
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/html-css-layout.md",
+    "rel": "appendix/3-browser-and-frontend/html-css-layout.md",
+    "bytes": 50581
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/javascript-deep-dive.md",
+    "rel": "appendix/3-browser-and-frontend/javascript-deep-dive.md",
+    "bytes": 29485
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/javascript-runtime.md",
+    "rel": "appendix/3-browser-and-frontend/javascript-runtime.md",
+    "bytes": 18768
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/realtime-communication.md",
+    "rel": "appendix/3-browser-and-frontend/realtime-communication.md",
+    "bytes": 6034
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/routing-navigation.md",
+    "rel": "appendix/3-browser-and-frontend/routing-navigation.md",
+    "bytes": 37037
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/state-management.md",
+    "rel": "appendix/3-browser-and-frontend/state-management.md",
+    "bytes": 40201
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/typescript.md",
+    "rel": "appendix/3-browser-and-frontend/typescript.md",
+    "bytes": 21040
+  },
+  {
+    "path": "docs/en/appendix/3-browser-and-frontend/web-performance.md",
+    "rel": "appendix/3-browser-and-frontend/web-performance.md",
+    "bytes": 35210
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/api-design.md",
+    "rel": "appendix/4-server-and-backend/api-design.md",
+    "bytes": 21624
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/api-intro.md",
+    "rel": "appendix/4-server-and-backend/api-intro.md",
+    "bytes": 11451
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/async-task-queues.md",
+    "rel": "appendix/4-server-and-backend/async-task-queues.md",
+    "bytes": 9140
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/auth-authorization.md",
+    "rel": "appendix/4-server-and-backend/auth-authorization.md",
+    "bytes": 31388
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/backend-languages.md",
+    "rel": "appendix/4-server-and-backend/backend-languages.md",
+    "bytes": 101180
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/backend-layered-architecture.md",
+    "rel": "appendix/4-server-and-backend/backend-layered-architecture.md",
+    "bytes": 35328
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/backend-project-architecture.md",
+    "rel": "appendix/4-server-and-backend/backend-project-architecture.md",
+    "bytes": 28844
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/caching.md",
+    "rel": "appendix/4-server-and-backend/caching.md",
+    "bytes": 47161
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/client-languages.md",
+    "rel": "appendix/4-server-and-backend/client-languages.md",
+    "bytes": 14068
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/concurrency-async.md",
+    "rel": "appendix/4-server-and-backend/concurrency-async.md",
+    "bytes": 31638
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/cross-platform.md",
+    "rel": "appendix/4-server-and-backend/cross-platform.md",
+    "bytes": 15557
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/domain-specific-languages.md",
+    "rel": "appendix/4-server-and-backend/domain-specific-languages.md",
+    "bytes": 31044
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/file-storage.md",
+    "rel": "appendix/4-server-and-backend/file-storage.md",
+    "bytes": 8890
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/http-protocol.md",
+    "rel": "appendix/4-server-and-backend/http-protocol.md",
+    "bytes": 9290
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/message-queues.md",
+    "rel": "appendix/4-server-and-backend/message-queues.md",
+    "bytes": 25813
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/rate-limiting-backpressure.md",
+    "rel": "appendix/4-server-and-backend/rate-limiting-backpressure.md",
+    "bytes": 7802
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/request-journey.md",
+    "rel": "appendix/4-server-and-backend/request-journey.md",
+    "bytes": 11384
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/search-engines.md",
+    "rel": "appendix/4-server-and-backend/search-engines.md",
+    "bytes": 8393
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/serialization.md",
+    "rel": "appendix/4-server-and-backend/serialization.md",
+    "bytes": 12138
+  },
+  {
+    "path": "docs/en/appendix/4-server-and-backend/web-frameworks.md",
+    "rel": "appendix/4-server-and-backend/web-frameworks.md",
+    "bytes": 34388
+  },
+  {
+    "path": "docs/en/appendix/5-data/ab-testing.md",
+    "rel": "appendix/5-data/ab-testing.md",
+    "bytes": 7446
+  },
+  {
+    "path": "docs/en/appendix/5-data/data-analysis.md",
+    "rel": "appendix/5-data/data-analysis.md",
+    "bytes": 8460
+  },
+  {
+    "path": "docs/en/appendix/5-data/data-governance.md",
+    "rel": "appendix/5-data/data-governance.md",
+    "bytes": 13393
+  },
+  {
+    "path": "docs/en/appendix/5-data/data-models.md",
+    "rel": "appendix/5-data/data-models.md",
+    "bytes": 9065
+  },
+  {
+    "path": "docs/en/appendix/5-data/data-tracking.md",
+    "rel": "appendix/5-data/data-tracking.md",
+    "bytes": 14892
+  },
+  {
+    "path": "docs/en/appendix/5-data/data-visualization.md",
+    "rel": "appendix/5-data/data-visualization.md",
+    "bytes": 14529
+  },
+  {
+    "path": "docs/en/appendix/5-data/database-fundamentals.md",
+    "rel": "appendix/5-data/database-fundamentals.md",
+    "bytes": 28429
+  },
+  {
+    "path": "docs/en/appendix/6-architecture-and-system-design/distributed-systems.md",
+    "rel": "appendix/6-architecture-and-system-design/distributed-systems.md",
+    "bytes": 13594
+  },
+  {
+    "path": "docs/en/appendix/6-architecture-and-system-design/high-availability.md",
+    "rel": "appendix/6-architecture-and-system-design/high-availability.md",
+    "bytes": 11657
+  },
+  {
+    "path": "docs/en/appendix/6-architecture-and-system-design/monolith-to-microservices.md",
+    "rel": "appendix/6-architecture-and-system-design/monolith-to-microservices.md",
+    "bytes": 8983
+  },
+  {
+    "path": "docs/en/appendix/6-architecture-and-system-design/system-design-methodology.md",
+    "rel": "appendix/6-architecture-and-system-design/system-design-methodology.md",
+    "bytes": 13232
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/ci-cd.md",
+    "rel": "appendix/7-infrastructure-and-operations/ci-cd.md",
+    "bytes": 34188
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/cloud-iam.md",
+    "rel": "appendix/7-infrastructure-and-operations/cloud-iam.md",
+    "bytes": 35211
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/cloud-platforms.md",
+    "rel": "appendix/7-infrastructure-and-operations/cloud-platforms.md",
+    "bytes": 21583
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/cloud-storage-cdn.md",
+    "rel": "appendix/7-infrastructure-and-operations/cloud-storage-cdn.md",
+    "bytes": 68056
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/dns-https.md",
+    "rel": "appendix/7-infrastructure-and-operations/dns-https.md",
+    "bytes": 10951
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/docker-containers.md",
+    "rel": "appendix/7-infrastructure-and-operations/docker-containers.md",
+    "bytes": 9782
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/gateway-proxy.md",
+    "rel": "appendix/7-infrastructure-and-operations/gateway-proxy.md",
+    "bytes": 32316
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/incident-response.md",
+    "rel": "appendix/7-infrastructure-and-operations/incident-response.md",
+    "bytes": 10824
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/infrastructure-as-code.md",
+    "rel": "appendix/7-infrastructure-and-operations/infrastructure-as-code.md",
+    "bytes": 12344
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/kubernetes.md",
+    "rel": "appendix/7-infrastructure-and-operations/kubernetes.md",
+    "bytes": 8498
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/linux-basics.md",
+    "rel": "appendix/7-infrastructure-and-operations/linux-basics.md",
+    "bytes": 14017
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/load-balancing-gateway.md",
+    "rel": "appendix/7-infrastructure-and-operations/load-balancing-gateway.md",
+    "bytes": 21835
+  },
+  {
+    "path": "docs/en/appendix/7-infrastructure-and-operations/monitoring-logging.md",
+    "rel": "appendix/7-infrastructure-and-operations/monitoring-logging.md",
+    "bytes": 20398
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/ai-agents.md",
+    "rel": "appendix/8-artificial-intelligence/ai-agents.md",
+    "bytes": 19994
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/ai-capability-dictionary.md",
+    "rel": "appendix/8-artificial-intelligence/ai-capability-dictionary.md",
+    "bytes": 548885
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/ai-history.md",
+    "rel": "appendix/8-artificial-intelligence/ai-history.md",
+    "bytes": 19820
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/ai-native-app-design.md",
+    "rel": "appendix/8-artificial-intelligence/ai-native-app-design.md",
+    "bytes": 11492
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/ai-protocols.md",
+    "rel": "appendix/8-artificial-intelligence/ai-protocols.md",
+    "bytes": 14129
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/context-engineering.md",
+    "rel": "appendix/8-artificial-intelligence/context-engineering.md",
+    "bytes": 25191
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/embedding-vector-retrieval.md",
+    "rel": "appendix/8-artificial-intelligence/embedding-vector-retrieval.md",
+    "bytes": 12899
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/image-generation.md",
+    "rel": "appendix/8-artificial-intelligence/image-generation.md",
+    "bytes": 9878
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/llm-principles.md",
+    "rel": "appendix/8-artificial-intelligence/llm-principles.md",
+    "bytes": 26316
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/model-finetuning-deployment.md",
+    "rel": "appendix/8-artificial-intelligence/model-finetuning-deployment.md",
+    "bytes": 11358
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/multimodal-models.md",
+    "rel": "appendix/8-artificial-intelligence/multimodal-models.md",
+    "bytes": 16505
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/neural-networks.md",
+    "rel": "appendix/8-artificial-intelligence/neural-networks.md",
+    "bytes": 17373
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/prompt-engineering.md",
+    "rel": "appendix/8-artificial-intelligence/prompt-engineering.md",
+    "bytes": 17244
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/rag.md",
+    "rel": "appendix/8-artificial-intelligence/rag.md",
+    "bytes": 10941
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/speech-synthesis-recognition.md",
+    "rel": "appendix/8-artificial-intelligence/speech-synthesis-recognition.md",
+    "bytes": 11584
+  },
+  {
+    "path": "docs/en/appendix/8-artificial-intelligence/transformer-attention.md",
+    "rel": "appendix/8-artificial-intelligence/transformer-attention.md",
+    "bytes": 13792
+  },
+  {
+    "path": "docs/en/appendix/9-engineering-excellence/code-quality-refactoring.md",
+    "rel": "appendix/9-engineering-excellence/code-quality-refactoring.md",
+    "bytes": 11402
+  },
+  {
+    "path": "docs/en/appendix/9-engineering-excellence/design-patterns.md",
+    "rel": "appendix/9-engineering-excellence/design-patterns.md",
+    "bytes": 10181
+  },
+  {
+    "path": "docs/en/appendix/9-engineering-excellence/open-source-collaboration.md",
+    "rel": "appendix/9-engineering-excellence/open-source-collaboration.md",
+    "bytes": 7764
+  },
+  {
+    "path": "docs/en/appendix/9-engineering-excellence/security-thinking.md",
+    "rel": "appendix/9-engineering-excellence/security-thinking.md",
+    "bytes": 7646
+  },
+  {
+    "path": "docs/en/appendix/9-engineering-excellence/technical-writing.md",
+    "rel": "appendix/9-engineering-excellence/technical-writing.md",
+    "bytes": 7755
+  },
+  {
+    "path": "docs/en/appendix/9-engineering-excellence/technology-selection.md",
+    "rel": "appendix/9-engineering-excellence/technology-selection.md",
+    "bytes": 7837
+  },
+  {
+    "path": "docs/en/appendix/9-engineering-excellence/testing-strategies.md",
+    "rel": "appendix/9-engineering-excellence/testing-strategies.md",
+    "bytes": 9267
+  },
+  {
+    "path": "docs/en/appendix/index.md",
+    "rel": "appendix/index.md",
+    "bytes": 7456
+  },
+  {
+    "path": "docs/en/guide/introduction.md",
+    "rel": "guide/introduction.md",
+    "bytes": 10865
+  },
+  {
+    "path": "docs/en/index.md",
+    "rel": "index.md",
+    "bytes": 699
+  },
+  {
+    "path": "docs/en/stage-1/ai-capabilities-through-games/index.md",
+    "rel": "stage-1/ai-capabilities-through-games/index.md",
+    "bytes": 50027
+  },
+  {
+    "path": "docs/en/stage-1/appendix-a-product-thinking/index.md",
+    "rel": "stage-1/appendix-a-product-thinking/index.md",
+    "bytes": 142351
+  },
+  {
+    "path": "docs/en/stage-1/appendix-articles/example0-1/vibe-coding-tools-snake-game-tutorial.md",
+    "rel": "stage-1/appendix-articles/example0-1/vibe-coding-tools-snake-game-tutorial.md",
+    "bytes": 22475
+  },
+  {
+    "path": "docs/en/stage-1/appendix-articles/example0-2/vibe-coding-tools-build-website-with-ai-coding-and-design-agents.md",
+    "rel": "stage-1/appendix-articles/example0-2/vibe-coding-tools-build-website-with-ai-coding-and-design-agents.md",
+    "bytes": 10445
+  },
+  {
+    "path": "docs/en/stage-1/appendix-b-common-errors/index.md",
+    "rel": "stage-1/appendix-b-common-errors/index.md",
+    "bytes": 7922
+  },
+  {
+    "path": "docs/en/stage-1/appendix-consumer-scenarios/index.md",
+    "rel": "stage-1/appendix-consumer-scenarios/index.md",
+    "bytes": 51144
+  },
+  {
+    "path": "docs/en/stage-1/appendix-double-diamond/index.md",
+    "rel": "stage-1/appendix-double-diamond/index.md",
+    "bytes": 28068
+  },
+  {
+    "path": "docs/en/stage-1/appendix-idea-sources/index.md",
+    "rel": "stage-1/appendix-idea-sources/index.md",
+    "bytes": 7708
+  },
+  {
+    "path": "docs/en/stage-1/appendix-industry-scenarios/index.md",
+    "rel": "stage-1/appendix-industry-scenarios/index.md",
+    "bytes": 50563
+  },
+  {
+    "path": "docs/en/stage-1/appendix-jobs-to-be-done/index.md",
+    "rel": "stage-1/appendix-jobs-to-be-done/index.md",
+    "bytes": 21279
+  },
+  {
+    "path": "docs/en/stage-1/appendix-modelscope-static-site/index.md",
+    "rel": "stage-1/appendix-modelscope-static-site/index.md",
+    "bytes": 13415
+  },
+  {
+    "path": "docs/en/stage-1/appendix-mom-test/index.md",
+    "rel": "stage-1/appendix-mom-test/index.md",
+    "bytes": 24212
+  },
+  {
+    "path": "docs/en/stage-1/building-prototype/index.md",
+    "rel": "stage-1/building-prototype/index.md",
+    "bytes": 31649
+  },
+  {
+    "path": "docs/en/stage-1/clone-your-favorite-app/index.md",
+    "rel": "stage-1/clone-your-favorite-app/index.md",
+    "bytes": 14095
+  },
+  {
+    "path": "docs/en/stage-1/complete-project-practice/index.md",
+    "rel": "stage-1/complete-project-practice/index.md",
+    "bytes": 17178
+  },
+  {
+    "path": "docs/en/stage-1/finding-great-idea/index.md",
+    "rel": "stage-1/finding-great-idea/index.md",
+    "bytes": 56903
+  },
+  {
+    "path": "docs/en/stage-1/integrating-ai-capabilities/index.md",
+    "rel": "stage-1/integrating-ai-capabilities/index.md",
+    "bytes": 29114
+  },
+  {
+    "path": "docs/en/stage-1/introduction-to-ai-ide/index.md",
+    "rel": "stage-1/introduction-to-ai-ide/index.md",
+    "bytes": 78037
+  },
+  {
+    "path": "docs/en/stage-1/learning-map/index.md",
+    "rel": "stage-1/learning-map/index.md",
+    "bytes": 29993
+  },
+  {
+    "path": "docs/en/stage-2/ai-capabilities/dify-knowledge-base/index.md",
+    "rel": "stage-2/ai-capabilities/dify-knowledge-base/index.md",
+    "bytes": 72239
+  },
+  {
+    "path": "docs/en/stage-2/assignments/copywriting-platform-supabase/index.md",
+    "rel": "stage-2/assignments/copywriting-platform-supabase/index.md",
+    "bytes": 13291
+  },
+  {
+    "path": "docs/en/stage-2/assignments/custom-dify-agent-platform/index.md",
+    "rel": "stage-2/assignments/custom-dify-agent-platform/index.md",
+    "bytes": 9251
+  },
+  {
+    "path": "docs/en/stage-2/assignments/exam-management-express/index.md",
+    "rel": "stage-2/assignments/exam-management-express/index.md",
+    "bytes": 12039
+  },
+  {
+    "path": "docs/en/stage-2/assignments/modern-landing-page/index.md",
+    "rel": "stage-2/assignments/modern-landing-page/index.md",
+    "bytes": 9570
+  },
+  {
+    "path": "docs/en/stage-2/assignments/movie-recommendation-springboot/index.md",
+    "rel": "stage-2/assignments/movie-recommendation-springboot/index.md",
+    "bytes": 7027
+  },
+  {
+    "path": "docs/en/stage-2/assignments/simple-grocery-microservices/index.md",
+    "rel": "stage-2/assignments/simple-grocery-microservices/index.md",
+    "bytes": 7455
+  },
+  {
+    "path": "docs/en/stage-2/assignments/traffic-data-visualization-go/index.md",
+    "rel": "stage-2/assignments/traffic-data-visualization-go/index.md",
+    "bytes": 6679
+  },
+  {
+    "path": "docs/en/stage-2/assignments/travel-planning-agent-platform/index.md",
+    "rel": "stage-2/assignments/travel-planning-agent-platform/index.md",
+    "bytes": 7036
+  },
+  {
+    "path": "docs/en/stage-2/backend/ai-interface-code/index.md",
+    "rel": "stage-2/backend/ai-interface-code/index.md",
+    "bytes": 10258
+  },
+  {
+    "path": "docs/en/stage-2/backend/cloud-server-deployment/index.md",
+    "rel": "stage-2/backend/cloud-server-deployment/index.md",
+    "bytes": 43722
+  },
+  {
+    "path": "docs/en/stage-2/backend/database-supabase/index.md",
+    "rel": "stage-2/backend/database-supabase/index.md",
+    "bytes": 110387
+  },
+  {
+    "path": "docs/en/stage-2/backend/git-workflow/index.md",
+    "rel": "stage-2/backend/git-workflow/index.md",
+    "bytes": 12108
+  },
+  {
+    "path": "docs/en/stage-2/backend/modern-cli/index.md",
+    "rel": "stage-2/backend/modern-cli/index.md",
+    "bytes": 55547
+  },
+  {
+    "path": "docs/en/stage-2/backend/stripe-payment/index.md",
+    "rel": "stage-2/backend/stripe-payment/index.md",
+    "bytes": 36388
+  },
+  {
+    "path": "docs/en/stage-2/backend/zeabur-deployment/index.md",
+    "rel": "stage-2/backend/zeabur-deployment/index.md",
+    "bytes": 19348
+  },
+  {
+    "path": "docs/en/stage-2/frontend/design-to-code/index.md",
+    "rel": "stage-2/frontend/design-to-code/index.md",
+    "bytes": 13163
+  },
+  {
+    "path": "docs/en/stage-2/frontend/figma-mastergo/index.md",
+    "rel": "stage-2/frontend/figma-mastergo/index.md",
+    "bytes": 21195
+  },
+  {
+    "path": "docs/en/stage-2/frontend/hogwarts-portraits/index.md",
+    "rel": "stage-2/frontend/hogwarts-portraits/index.md",
+    "bytes": 24364
+  },
+  {
+    "path": "docs/en/stage-2/frontend/llm-skills-beautiful/index.md",
+    "rel": "stage-2/frontend/llm-skills-beautiful/index.md",
+    "bytes": 18509
+  },
+  {
+    "path": "docs/en/stage-2/frontend/lovart-assets/index.md",
+    "rel": "stage-2/frontend/lovart-assets/index.md",
+    "bytes": 52482
+  },
+  {
+    "path": "docs/en/stage-2/frontend/modern-component-library/index.md",
+    "rel": "stage-2/frontend/modern-component-library/index.md",
+    "bytes": 26639
+  },
+  {
+    "path": "docs/en/stage-2/frontend/multi-product-ui/index.md",
+    "rel": "stage-2/frontend/multi-product-ui/index.md",
+    "bytes": 20466
+  },
+  {
+    "path": "docs/en/stage-2/frontend/ui-design/index.md",
+    "rel": "stage-2/frontend/ui-design/index.md",
+    "bytes": 33589
+  },
+  {
+    "path": "docs/en/stage-2/index.md",
+    "rel": "stage-2/index.md",
+    "bytes": 8369
+  },
+  {
+    "path": "docs/en/stage-3/ai-advanced/langgraph-advanced-rag/index.md",
+    "rel": "stage-3/ai-advanced/langgraph-advanced-rag/index.md",
+    "bytes": 150
+  },
+  {
+    "path": "docs/en/stage-3/ai-advanced/rag-introduction/index.md",
+    "rel": "stage-3/ai-advanced/rag-introduction/index.md",
+    "bytes": 96642
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/agent-teams/index.md",
+    "rel": "stage-3/core-skills/agent-teams/index.md",
+    "bytes": 87754
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/basics/index.md",
+    "rel": "stage-3/core-skills/basics/index.md",
+    "bytes": 51413
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/claude-agent-sdk/index.md",
+    "rel": "stage-3/core-skills/claude-agent-sdk/index.md",
+    "bytes": 26802
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/github-iterative-development/index.md",
+    "rel": "stage-3/core-skills/github-iterative-development/index.md",
+    "bytes": 27090
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/long-running-tasks/index.md",
+    "rel": "stage-3/core-skills/long-running-tasks/index.md",
+    "bytes": 29513
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/mcp/index.md",
+    "rel": "stage-3/core-skills/mcp/index.md",
+    "bytes": 16442
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/mobile-development/index.md",
+    "rel": "stage-3/core-skills/mobile-development/index.md",
+    "bytes": 35177
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/skills/index.md",
+    "rel": "stage-3/core-skills/skills/index.md",
+    "bytes": 44619
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/spec-coding/index.md",
+    "rel": "stage-3/core-skills/spec-coding/index.md",
+    "bytes": 29993
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/superpowers/index.md",
+    "rel": "stage-3/core-skills/superpowers/index.md",
+    "bytes": 19145
+  },
+  {
+    "path": "docs/en/stage-3/core-skills/workflow/index.md",
+    "rel": "stage-3/core-skills/workflow/index.md",
+    "bytes": 29629
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/ai-native-creator/index.md",
+    "rel": "stage-3/cross-platform/ai-native-creator/index.md",
+    "bytes": 5240
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/android-app/index.md",
+    "rel": "stage-3/cross-platform/android-app/index.md",
+    "bytes": 46347
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/app-publishing/index.md",
+    "rel": "stage-3/cross-platform/app-publishing/index.md",
+    "bytes": 10918
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/browser-ai-extension/index.md",
+    "rel": "stage-3/cross-platform/browser-ai-extension/index.md",
+    "bytes": 24175
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/choose-platform/index.md",
+    "rel": "stage-3/cross-platform/choose-platform/index.md",
+    "bytes": 26907
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/electron-voice-to-text/index.md",
+    "rel": "stage-3/cross-platform/electron-voice-to-text/index.md",
+    "bytes": 20830
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/flutter-app/index.md",
+    "rel": "stage-3/cross-platform/flutter-app/index.md",
+    "bytes": 9119
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/godot-game-development/index.md",
+    "rel": "stage-3/cross-platform/godot-game-development/index.md",
+    "bytes": 8758
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/ios-app/index.md",
+    "rel": "stage-3/cross-platform/ios-app/index.md",
+    "bytes": 31710
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/nft-minting/index.md",
+    "rel": "stage-3/cross-platform/nft-minting/index.md",
+    "bytes": 17342
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/pwa-local-app/index.md",
+    "rel": "stage-3/cross-platform/pwa-local-app/index.md",
+    "bytes": 30822
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/qt-industrial-hmi/index.md",
+    "rel": "stage-3/cross-platform/qt-industrial-hmi/index.md",
+    "bytes": 27049
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/react-native-expo/index.md",
+    "rel": "stage-3/cross-platform/react-native-expo/index.md",
+    "bytes": 10791
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/vscode-extension/index.md",
+    "rel": "stage-3/cross-platform/vscode-extension/index.md",
+    "bytes": 34534
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/wechat-miniprogram-backend/index.md",
+    "rel": "stage-3/cross-platform/wechat-miniprogram-backend/index.md",
+    "bytes": 12695
+  },
+  {
+    "path": "docs/en/stage-3/cross-platform/wechat-miniprogram/index.md",
+    "rel": "stage-3/cross-platform/wechat-miniprogram/index.md",
+    "bytes": 33131
+  },
+  {
+    "path": "docs/en/stage-3/index.md",
+    "rel": "stage-3/index.md",
+    "bytes": 6445
+  },
+  {
+    "path": "docs/en/stage-3/personal-brand/personal-website-blog/index.md",
+    "rel": "stage-3/personal-brand/personal-website-blog/index.md",
+    "bytes": 57944
+  },
+  {
+    "path": "docs/en/vibe-stories/story-1.md",
+    "rel": "vibe-stories/story-1.md",
+    "bytes": 8773
+  },
+  {
+    "path": "docs/en/vibe-stories/story-2.md",
+    "rel": "vibe-stories/story-2.md",
+    "bytes": 7960
+  },
+  {
+    "path": "docs/en/vibe-stories/story-3.md",
+    "rel": "vibe-stories/story-3.md",
+    "bytes": 10049
+  },
+  {
+    "path": "docs/en/vibe-stories/story-4.md",
+    "rel": "vibe-stories/story-4.md",
+    "bytes": 6576
+  }
+]
