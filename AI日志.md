@@ -14,8 +14,8 @@
 - **踩坑 / 问题**：
   1. 「Stanford Vibe Coding course」官方源不存在 → 改以 easy-vibe 为替代源并如实标注。
   2. translate.js 默认是占位器（只替换术语、不翻译）→ 加入「已存在 zh 跳过」保护，未把占位输出当译文。
-  3. Google keyless MT 返回空 body → 无可用 MT 引擎，全量翻译暂缓。
-  4. GitHub 未绑定 → 平台拒收提交。
+  3. Google keyless MT 返回空 body → 一度无可用 MT 引擎；后自建免密钥 Bing 通道（cn.bing.com/ttranslatev3）解决，见下「Day 1（续）」。
+  4. GitHub 未绑定 → 平台拒收提交；后已绑定 askjdghfjkghashjkasd 并成功推送仓库。
 - **改进**：下次先确认 MT 引擎 / API key；抓取后先做覆盖矩阵；脚本加「真实翻译」自检断言。
 
 ---
